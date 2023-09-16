@@ -8,5 +8,7 @@ namespace WindowsFormsApp1
 {
     internal class Class2
     {
+        int id;
+        public int Id { get => id; set => id = value; }
     }
 }
