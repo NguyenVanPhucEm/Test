@@ -8,5 +8,8 @@ namespace WindowsFormsApp1
 {
     internal class Class2
     {
+        string mssv;
+
+        public global::System.String Mssv { get => mssv; set => mssv = value; }
     }
 }
